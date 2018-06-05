@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\stack">
+      <UniqueIdentifier>{c3a19d85-0063-426e-86c5-49f1d3154046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FortGeSu">
+      <UniqueIdentifier>{ac9069d7-d316-43b0-a0d9-b44cebf1fd92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\text">
+      <UniqueIdentifier>{3ac11a3e-160e-4506-ac71-1c38ee3df60f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GultigkeitSudokuInhalt">
+      <UniqueIdentifier>{4217a616-ffe9-4ea8-8cac-ab8fe9d16895}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="push.c">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="empty.c">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="pop.c">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="is_empty.c">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="top.c">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="showEntryList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="findDataSud.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getNumObject.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zsuche.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getNumObjectzeile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getNumObjectspalte.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getcharakter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GoToXY.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rechner.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxWerte.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="box0Feld.c">
+      <Filter>Source Files\FortGeSu</Filter>
+    </ClCompile>
+    <ClCompile Include="Xspalte.c">
+      <Filter>Source Files\FortGeSu</Filter>
+    </ClCompile>
+    <ClCompile Include="Xzeile.c">
+      <Filter>Source Files\FortGeSu</Filter>
+    </ClCompile>
+    <ClCompile Include="Xbox.c">
+      <Filter>Source Files\FortGeSu</Filter>
+    </ClCompile>
+    <ClCompile Include="zeile0Feld.c">
+      <Filter>Source Files\FortGeSu</Filter>
+    </ClCompile>
+    <ClCompile Include="spalte0Feld.c">
+      <Filter>Source Files\FortGeSu</Filter>
+    </ClCompile>
+    <ClCompile Include="read.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="speichern.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FeldEigenschaften.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="anleitung.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NaviUp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NaviDown.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NaviLinks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NaviRechts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pruefen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="masseage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SchwierigkeitsGrad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tipp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loesen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZahlEingabe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxGultigkeit.c">
+      <Filter>GultigkeitSudokuInhalt</Filter>
+    </ClCompile>
+    <ClCompile Include="ZeileGultigkeit.c">
+      <Filter>GultigkeitSudokuInhalt</Filter>
+    </ClCompile>
+    <ClCompile Include="SpalteGultigkeit.c">
+      <Filter>GultigkeitSudokuInhalt</Filter>
+    </ClCompile>
+    <ClCompile Include="funktionvollPos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="schwierig1.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="schwierig2.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="schwierig3.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="schwierig4.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="schwierig5.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="einfach5.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="einfach4.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="einfach3.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="einfach2.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="schwierig6.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="einfach1.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="mittel1.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="mittel2.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="mittel3.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="mittel4.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="mittel5.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="nicht.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+    <Text Include="schwierig7.txt">
+      <Filter>Source Files\text</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

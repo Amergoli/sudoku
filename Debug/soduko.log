@@ -1,0 +1,144 @@
+﻿  zsuche.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\zsuche.c(20): warning C4101: 'i': unreferenced local variable
+  zeile0Feld.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\zeile0feld.c(23): warning C4101: 'w': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\zeile0feld.c(23): warning C4101: 'topfeld': unreferenced local variable
+  top.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\top.c(12): warning C4047: '!=': 'char *' differs in levels of indirection from 'int'
+  speichern.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\speichern.c(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\speichern.c(23): warning C4101: 'salary': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\speichern.c(21): warning C4101: 'name': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\speichern.c(22): warning C4101: 'age': unreferenced local variable
+  spalte0Feld.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  showEntryList.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\showentrylist.c(36): warning C4101: 'index': unreferenced local variable
+  read.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\read.c(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  push.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  pruefen.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\pruefen.c(19): warning C4101: 'text': unreferenced local variable
+  pop.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  masseage.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  loesen.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\loesen.c(33): warning C4133: 'function': incompatible types - from 'int *' to 'char *'
+  is_empty.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  init.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  getcharakter.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\getcharakter.c(157): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\getcharakter.c(179): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\getcharakter.c(22): warning C4101: 'ZwischenE': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\getcharakter.c(24): warning C4101: 'name': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\getcharakter.c(30): warning C4101: 'LleerPos': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\getcharakter.c(24): warning C4101: 'temp': unreferenced local variable
+  getNumObjectzeile.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  getNumObjectspalte.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  getNumObject.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  funktionvollPos.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\funktionvollpos.c(19): warning C4101: 'element': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\funktionvollpos.c(19): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\loesen.c(54): warning C4715: 'loesen': not all control paths return a value
+  Compiling...
+  findDataSud.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  empty.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\empty.c(13): warning C4047: 'return': 'stack *' differs in levels of indirection from 'stack *[81]'
+  box0Feld.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  anleitung.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\anleitung.c(21): warning C4101: 'index': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\anleitung.c(21): warning C4101: 'j': unreferenced local variable
+  ZeileGultigkeit.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\zeilegultigkeit.c(18): warning C4101: 'j1': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\zeilegultigkeit.c(18): warning C4101: 'j': unreferenced local variable
+  ZahlEingabe.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Xzeile.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\xzeile.c(20): warning C4101: 'j': unreferenced local variable
+  Xspalte.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\xspalte.c(20): warning C4101: 'j': unreferenced local variable
+  Xbox.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\xbox.c(19): warning C4101: 'f1': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\xbox.c(19): warning C4101: 'j': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\xbox.c(19): warning C4101: 'f3': unreferenced local variable
+  Tipp.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SpalteGultigkeit.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\spaltegultigkeit.c(18): warning C4101: 'j1': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\spaltegultigkeit.c(18): warning C4101: 'j': unreferenced local variable
+  SchwierigkeitsGrad.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\schwierigkeitsgrad.c(31): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rechner.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\rechner.c(21): warning C4133: 'initializing': incompatible types - from 'int *' to 'fieldObject *'
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\rechner.c(22): warning C4101: 'indexpointer': unreferenced local variable
+  NaviUp.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  NaviRechts.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\navirechts.c(20): warning C4101: 'yVal': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\navirechts.c(20): warning C4101: 'index': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\navirechts.c(20): warning C4101: 'it': unreferenced local variable
+  NaviLinks.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\navilinks.c(20): warning C4101: 'yVal': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\navilinks.c(20): warning C4101: 'index': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\navilinks.c(20): warning C4101: 'it': unreferenced local variable
+  NaviDown.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Menu.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\menu.c(103): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  GoToXY.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  FeldEigenschaften.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\feldeigenschaften.c(25): warning C4101: 'element': unreferenced local variable
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\feldeigenschaften.c(25): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\empty.c(13): warning C4172: returning address of local variable or temporary: stack_1
+  Compiling...
+  BoxWerte.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\boxwerte.c(18): warning C4101: 'indexpointer': unreferenced local variable
+  BoxGultigkeit.c
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\amer\documents\visual studio 2017\projects\soduko\soduko\boxgultigkeit.c(19): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+  soduko.vcxproj -> C:\Users\amer\documents\visual studio 2017\Projects\soduko\Debug\soduko.exe
+  soduko.vcxproj -> C:\Users\amer\documents\visual studio 2017\Projects\soduko\Debug\soduko.pdb (Partial PDB)
